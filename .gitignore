@@ -1,0 +1,6 @@
+/chai-examples/node_modules
+/chai-examples/package*
+/mocha-examples/node_modules
+/mocha-examples/package*
+/sinon-examples/node_modules
+/sinon-examples/package*
